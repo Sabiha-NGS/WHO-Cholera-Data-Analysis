@@ -14,19 +14,29 @@ Exploratory data analysis using the global data from WHO about the cholera incid
 2. numpy 
 3. matplotlib 
 4. seaborn
+5. functools
 
 ## Data Source: 
 https://apps.who.int/gho/data/node.main.174?lang=en
 
 ## Files in the repository:
 
+Input files:
     input_files/CHOLERA_reported_deaths.csv
     input_files/CHOLERA_reported_incidence.csv
     input_files/drinking_water.csv
     input_files/hand_washing.csv
     input_files/open_defecaion.csv
     input_files/sanitation.csv
+
+Python Jupyter notebook:
     WHO-Cholera-data-Analysis.ipynb
+
+Images:
+    images/107_2465-e1394732955432.jpg
+    images/correlation.png
+    images/countries.png
+    images/Prevalence.png
 
 ## Summary of the analysis: 
 With this analysis, I have tried to look into the prevalence patterns of Cholera all over the world during 1949–2016 based on the data from WHO and conclude the following:
