@@ -22,21 +22,21 @@ https://apps.who.int/gho/data/node.main.174?lang=en
 ## Files in the repository:
 
 Input files:
-    input_files/CHOLERA_reported_deaths.csv
-    input_files/CHOLERA_reported_incidence.csv
-    input_files/drinking_water.csv
-    input_files/hand_washing.csv
-    input_files/open_defecaion.csv
-    input_files/sanitation.csv
+1. input_files/CHOLERA_reported_deaths.csv
+2. input_files/CHOLERA_reported_incidence.csv
+3. input_files/drinking_water.csv
+4. input_files/hand_washing.csv
+5. input_files/open_defecaion.csv
+6. input_files/sanitation.csv
 
 Python Jupyter notebook:
-    WHO-Cholera-data-Analysis.ipynb
+1. WHO-Cholera-data-Analysis.ipynb
 
 Images:
-    images/107_2465-e1394732955432.jpg
-    images/correlation.png
-    images/countries.png
-    images/Prevalence.png
+1. images/107_2465-e1394732955432.jpg
+2. images/correlation.png
+3. images/countries.png
+4. images/Prevalence.png
 
 ## Summary of the analysis: 
 With this analysis, I have tried to look into the prevalence patterns of Cholera all over the world during 1949–2016 based on the data from WHO and conclude the following:
